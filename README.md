@@ -1,4 +1,4 @@
-  #Pong Game
+# Pong Game
 
 In this project i used  (Gorgon Library)[https://github.com/darkgazeorg/Gorgon]  for creating 2D Graphics
 You can install the gorgon from the given link
